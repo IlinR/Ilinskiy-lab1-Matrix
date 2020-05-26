@@ -1,0 +1,13 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\ilins\Desktop\ConsoleApplication1\Matrix.h(24,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ilins\Desktop\ConsoleApplication1\Matrix.h(82): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Matrix<T>"
+C:\Users\ilins\Desktop\ConsoleApplication1\Matrix.h(24,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ilins\Desktop\ConsoleApplication1\Matrix.h(23): message : во время компиляции функции-члена класс шаблон "void Matrix<int>::MatRand(void)"
+C:\Users\ilins\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(7): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Matrix<int>::MatRand(void)"
+C:\Users\ilins\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(6): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Matrix<int>"
+  Создание кода
+  5 of 17 functions (29.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> C:\Users\ilins\Desktop\x64\Release\ConsoleApplication1.exe
